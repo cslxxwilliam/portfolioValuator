@@ -1,6 +1,6 @@
-package portfolio.valuator;
+package portfolio.valuator.repositories;
 
-import portfolio.valuator.model.AssetPosition;
+import portfolio.valuator.model.OptionPosition;
 
 import java.util.List;
 

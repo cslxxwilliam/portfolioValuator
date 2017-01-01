@@ -1,8 +1,5 @@
 package portfolio.valuator.model;
 
-import portfolio.valuator.OptionType;
-import portfolio.valuator.model.Stock;
-
 import java.math.BigDecimal;
 
 /**

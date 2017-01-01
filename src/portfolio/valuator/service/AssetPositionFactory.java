@@ -1,8 +1,10 @@
 package portfolio.valuator.service;
 
 import portfolio.valuator.*;
-import portfolio.valuator.model.Asset;
 import portfolio.valuator.model.AssetPosition;
+import portfolio.valuator.model.OptionPosition;
+import portfolio.valuator.repositories.OptionDaoImpl;
+import portfolio.valuator.repositories.StockDaoImpl;
 
 /**
  * Created by williamxuxianglin on 1/1/17.

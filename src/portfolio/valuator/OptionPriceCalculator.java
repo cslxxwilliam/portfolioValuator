@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 
 import static java.math.BigDecimal.valueOf;
 import static java.math.RoundingMode.HALF_UP;
-import static portfolio.valuator.OptionType.CALL;
+import static portfolio.valuator.model.OptionType.CALL;
 
 /**
  * Created by williamxuxianglin on 29/12/16.

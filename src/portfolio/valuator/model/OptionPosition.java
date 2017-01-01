@@ -1,4 +1,4 @@
-package portfolio.valuator;
+package portfolio.valuator.model;
 
 import portfolio.valuator.model.AssetPosition;
 import portfolio.valuator.model.Option;

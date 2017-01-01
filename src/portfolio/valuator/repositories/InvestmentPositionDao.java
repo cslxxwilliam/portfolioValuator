@@ -1,4 +1,6 @@
-package portfolio.valuator;
+package portfolio.valuator.repositories;
+
+import portfolio.valuator.InvestmentPosition;
 
 import java.util.List;
 

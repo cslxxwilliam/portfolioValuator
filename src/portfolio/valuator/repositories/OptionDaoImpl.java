@@ -1,8 +1,9 @@
-package portfolio.valuator;
+package portfolio.valuator.repositories;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
+import portfolio.valuator.model.OptionType;
 import portfolio.valuator.model.Option;
 
 import java.sql.ResultSet;

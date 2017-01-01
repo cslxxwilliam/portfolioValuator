@@ -4,6 +4,8 @@ import portfolio.valuator.*;
 import portfolio.valuator.formatter.OutputFormatter;
 import portfolio.valuator.model.Option;
 import portfolio.valuator.model.Stock;
+import portfolio.valuator.repositories.OptionDaoImpl;
+import portfolio.valuator.repositories.StockDaoImpl;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

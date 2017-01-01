@@ -1,4 +1,9 @@
-package portfolio.valuator;
+package portfolio.valuator.model;
+
+import portfolio.valuator.InvestmentPosition;
+import portfolio.valuator.model.OptionPosition;
+import portfolio.valuator.repositories.InvestmentPositionDaoImpl;
+import portfolio.valuator.repositories.OptionPositionDaoImpl;
 
 import java.math.BigDecimal;
 import java.util.List;

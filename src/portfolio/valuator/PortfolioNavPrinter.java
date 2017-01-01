@@ -2,6 +2,9 @@ package portfolio.valuator;
 
 import com.sun.deploy.util.StringUtils;
 import portfolio.valuator.model.Option;
+import portfolio.valuator.model.OptionPosition;
+import portfolio.valuator.repositories.InvestmentPositionDaoImpl;
+import portfolio.valuator.repositories.OptionPositionDaoImpl;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

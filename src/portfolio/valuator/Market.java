@@ -3,7 +3,12 @@ package portfolio.valuator;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import portfolio.valuator.input.CsvReader;
 import portfolio.valuator.model.AssetPosition;
+import portfolio.valuator.model.OptionPosition;
 import portfolio.valuator.model.Stock;
+import portfolio.valuator.repositories.InvestmentPositionDaoImpl;
+import portfolio.valuator.repositories.OptionDaoImpl;
+import portfolio.valuator.repositories.OptionPositionDaoImpl;
+import portfolio.valuator.repositories.StockDaoImpl;
 
 import java.util.List;
 

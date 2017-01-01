@@ -1,7 +1,10 @@
 package portfolio.valuator.pricePublish;
 
 import portfolio.valuator.*;
-import portfolio.valuator.pricePublish.PriceUpdated;
+import portfolio.valuator.model.OptionPosition;
+import portfolio.valuator.model.Portfolio;
+import portfolio.valuator.repositories.InvestmentPositionDaoImpl;
+import portfolio.valuator.repositories.OptionPositionDaoImpl;
 
 import java.util.List;
 

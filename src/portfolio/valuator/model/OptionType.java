@@ -1,4 +1,4 @@
-package portfolio.valuator;
+package portfolio.valuator.model;
 
 /**
  * Created by williamxuxianglin on 28/12/16.
