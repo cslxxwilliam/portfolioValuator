@@ -35,7 +35,6 @@ public class CsvReader {
                 String[] inputs = line.split(cvsSplitBy);
 
                 assetPositionList.add(AssetPositionFactory.create(inputs));
-                Arrays.stream(inputs).forEach(System.out::println);
             }
 
         } catch (IOException e) {
