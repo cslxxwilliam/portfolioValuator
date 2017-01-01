@@ -1,0 +1,6 @@
+Ticker,Shares/Contracts,Type
+0001.HK,1000,Stock
+0002.HK,1000,Stock
+0003.HK,1000,Stock
+0001.HK.Call,100,Option
+0002.HK.Put,-120,Option

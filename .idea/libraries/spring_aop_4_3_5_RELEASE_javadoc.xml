@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="spring-aop-4.3.5.RELEASE-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-aop-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-aspects-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-beans-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-context-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-context-support-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-core-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-expression-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-instrument-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-instrument-tomcat-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-jdbc-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-jms-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-messaging-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-orm-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-oxm-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-test-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-tx-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-web-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-webmvc-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-webmvc-portlet-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-websocket-4.3.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-aop-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-aspects-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-beans-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-context-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-context-support-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-core-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-expression-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-instrument-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-instrument-tomcat-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-jdbc-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-jms-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-messaging-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-orm-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-oxm-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-test-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-tx-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-web-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-webmvc-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-webmvc-portlet-4.3.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-websocket-4.3.5.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-aop-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-aspects-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-beans-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-context-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-context-support-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-core-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-expression-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-instrument-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-instrument-tomcat-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-jdbc-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-jms-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-messaging-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-orm-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-oxm-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-test-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-tx-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-web-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-webmvc-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-webmvc-portlet-4.3.5.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Reference/spring/spring-websocket-4.3.5.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
