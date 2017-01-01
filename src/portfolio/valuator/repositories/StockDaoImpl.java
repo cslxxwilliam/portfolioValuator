@@ -1,4 +1,4 @@
-package portfolio.valuator;
+package portfolio.valuator.repositories;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.RowMapper;
