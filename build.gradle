@@ -1,0 +1,48 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+apply plugin: 'java'
+
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+sourceSets {
+    main {
+        resources {
+            srcDirs = ['src/resources']
+        }
+    }
+}
+
+dependencies {
+    // tag::jetty[]
+    compile("com.h2database:h2:1.4.193")
+    compile("commons-logging:commons-logging:1.2")
+    compile("org.apache.commons:commons-math3:3.6.1")
+    compile("org.springframework:spring-context:4.3.5.RELEASE")
+    compile("org.springframework:spring-jdbc:4.3.5.RELEASE")
+    compile("org.springframework:spring-core:4.3.5.RELEASE")
+}
+
+jar {
+    baseName = 'PortfolioValuator'
+    version =  '1.0.0'
+    manifest {
+        attributes(
+                'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
+                'Main-Class': 'main.java.valuator.Main'
+        )
+    }
+
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
